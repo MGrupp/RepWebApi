@@ -1,0 +1,40 @@
+*********** Create *********** 
+Method: POST
+https://localhost:44334/api/user/Create
+{
+  "Id": 0,
+  "Name": "Mauricio",
+  "LastName": "Grupp",
+  "Address": "Peru"	
+}
+
+
+
+*********** Update *********** 
+Method: POST
+https://localhost:44334/api/user/Update
+{
+  "Id": 2,
+  "Name": "Mauricio Ricardo",
+  "LastName": "Grupp Rivera",
+  "Address": "Arequipa - Peru",
+  "CreateDate": "2019-09-20T16:15:10.9251263",
+  "UpdateDate": "2019-09-20T16:15:10.9251263"
+}
+
+
+*********** GetAll *********** 
+Method: GET
+https://localhost:44334/api/user/GetAll
+
+
+
+*********** GetById *********** 
+Method: GET
+https://localhost:44334/api/user/2
+
+
+*********** GetById *********** 
+Method: DELETE
+https://localhost:44334/api/user/3
+
