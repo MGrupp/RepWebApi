@@ -1,0 +1,13 @@
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csproj.CoreCompileInputs.cache
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cache
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cs
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfoInputs.cache
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfo.cs
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.deps.json
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.json
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.dev.json
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorTargetAssemblyInfo.cache
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Mauricio\Proyectos\App\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.pdb
